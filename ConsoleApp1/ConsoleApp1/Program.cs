@@ -10,9 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ля, шо делать?");
 
-            gfdsgfdsgfds
+            var s = "test";
         }
     }
 }
