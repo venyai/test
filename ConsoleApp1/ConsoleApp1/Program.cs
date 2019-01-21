@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            var s = "test"парпа
+            var s = "Веня привет";
         }
     }
 }
